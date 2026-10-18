@@ -1,0 +1,5 @@
+# Model tokenization and embedding lookup
+transformers
+torch
+
+# The local browser chat uses Python's standard library; no Tkinter required.
