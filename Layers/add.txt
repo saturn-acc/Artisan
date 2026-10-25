@@ -1,1 +1,0 @@
-add a func to fetch the model config to get things like epsilon for rmsnorm 
